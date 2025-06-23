@@ -1,0 +1,7 @@
+{
+	"greeting": "Hello World",
+	"description": {
+		"line1": "You're watching a <1>{{channel}}</1>",
+		"line2": "This is a multi-lingual demo"
+	}
+}
